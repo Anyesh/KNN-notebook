@@ -1,0 +1,66 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: D:\Visualizations\knn\build
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bba3413a-8daf-475a-a713-2f7b03e491a8
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 0.96ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 0.96ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.02ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/index.html (::1) 1.98ms
+[NotebookApp | WARNING] Blocking request with no referer
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1): Blocking request from unknown origin
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1) 8.00ms referer=None
+[NotebookApp | INFO] 302 GET /notebooks/index.html (::1) 1.98ms
+[NotebookApp | WARNING] Blocking request with no referer
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1): Blocking request from unknown origin
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1) 1.00ms referer=None
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/index.html (::1) 1.03ms
+[NotebookApp | WARNING] Blocking request with no referer
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1): Blocking request from unknown origin
+[NotebookApp | WARNING] 403 GET /files/app.bundle.js (::1) 1.00ms referer=None
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for bba3413a-8daf-475a-a713-2f7b03e491a8:fb04568cdc9842e8ad22b5c161cbfe69
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.03ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.98ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 0.98ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 0.97ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.02ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.03ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.03ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for bba3413a-8daf-475a-a713-2f7b03e491a8:4823d0aa0b6d4a7c8c96e7206d948529
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.02ms
+[NotebookApp | INFO] Starting buffering for bba3413a-8daf-475a-a713-2f7b03e491a8:b9e6b61e40af43958b8af8707ceca9e6
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: bba3413a-8daf-475a-a713-2f7b03e491a8
