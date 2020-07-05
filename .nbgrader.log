@@ -64,3 +64,18 @@
 [NotebookApp | INFO] Shutting down on /api/shutdown request.
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: bba3413a-8daf-475a-a713-2f7b03e491a8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: D:\Visualizations\knn\build
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dee7b6b8-debd-4582-a97d-76b5e858a3ec
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.00ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/app.bundle.js (::1) 1.02ms
+[NotebookApp | INFO] Saving file at /knn-notebook.ipynb
+[NotebookApp | WARNING] Notebook knn-notebook.ipynb is not trusted
